@@ -38,6 +38,7 @@ export default function HomeScreen({ navigation }) {
 
   useEffect(() => {
     loadMenu();
+    
   }, []);
 
   const onFilterClick = (item) => {

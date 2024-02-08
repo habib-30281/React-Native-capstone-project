@@ -68,7 +68,9 @@ export default function Onboarding() {
   );
 }
 
+
 const styles = StyleSheet.create({
+  
   container: {
     flex: 1,
     flexDirection: "column",

@@ -6,5 +6,6 @@ export default function App() {
     <AppProvider>
       <Navigation />
     </AppProvider>
+    
   );
 }
